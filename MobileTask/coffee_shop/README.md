@@ -1,10 +1,12 @@
 # coffee_shop
 
-A new Flutter project.
+This is a flutter implementation of the task required for ET3 internship.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+You should have flutter and dart setup on your device, download the project and run the main.dart file.
 
 A few resources to get you started if this is your first Flutter project:
 
