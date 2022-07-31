@@ -1,16 +1,10 @@
 # coffee_shop
 
-A new Flutter project.
+This is a flutter implementation of the task required for ET3 internship.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+You should have flutter and dart setup on your device, download the project and run the main.dart file.
+There is also a folder named video containing a small recording of the implemented project and screenshots of the pages implemented
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
